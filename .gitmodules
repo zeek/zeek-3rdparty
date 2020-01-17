@@ -1,3 +1,6 @@
 [submodule "caf"]
 	path = caf
 	url = https://github.com/zeek/actor-framework
+[submodule "rapidjson"]
+	path = rapidjson
+	url = https://github.com/zeek/rapidjson
