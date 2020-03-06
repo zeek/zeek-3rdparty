@@ -1,3 +1,0 @@
-[submodule "libkqueue"]
-	path = libkqueue
-	url = https://github.com/zeek/libkqueue.git
